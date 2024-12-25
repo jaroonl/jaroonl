@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Jaron Lin!! 👋</h1>
 
 # 💫 About Me:
-👋 Hello, there! I'm Jaron Lin, a passionate Computer Science student at California Polytechnic State University – Pomona, on track to graduate in Fall 2025. I'm deeply committed to leveraging technology to create meaningful solutions, from responsive web applications to impactful advocacy tools. I’m always excited to collaborate on innovative projects, particularly in web development, AI, or tools that make a difference. Check out my work here on GitHub or connect with me on LinkedIn!
+Hello, there! I'm Jaron Lin, a passionate Computer Science student at California Polytechnic State University – Pomona, on track to graduate in Fall 2025. I'm deeply committed to leveraging technology to create meaningful solutions, from responsive web applications to impactful advocacy tools. I've honed my skills through collaborative projects with diverse teams, coding challenges, and hands-on workshops. My experience with tools like Supabase, REST APIs, and Agile methodologies has prepared me for tackling complex problems efficiently. I’m always excited to collaborate on innovative projects, particularly in web development, AI, or tools that make a difference. Check out my work here on GitHub or connect with me on LinkedIn!
 
 
 ## 🌐 Socials:
