@@ -3,10 +3,6 @@
 # 💫 About Me:
 Hello, there! I'm Jaron Lin, Computer Science graduate from California Polytechnic State University – Pomona. I'm deeply committed to leveraging technology to create meaningful solutions, from responsive web applications to impactful advocacy tools. I've honed my skills through collaborative projects with diverse teams, coding challenges, and hands-on workshops. My experience with tools like Supabase, REST APIs, and Agile methodologies has prepared me for tackling complex problems efficiently. I’m always excited to collaborate on innovative projects, particularly in web development, AI, or tools that make a difference. Check out my work here on GitHub or connect with me on LinkedIn!
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jaron-lin/) 
-
 # 💻 Tech Stack:
 <br>Languages: Java, Python, C++, JavaScript, TypeScript, R, HTML, CSS, Dart, C#
 <br>Frameworks: React Native, Flutter, Unity, React.js, Next.js
