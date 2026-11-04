@@ -9,8 +9,8 @@ Most recently I was a software engineer intern at Meeedly, building reusable Rea
 
 # 🚀 Featured Projects
 - **Chordpath** – Cross-platform Flutter guitar-learning app published on Google Play. [Play Store](https://play.google.com/store/apps/details?id=com.jaroonl.chordify&hl=en_US)
-- **[BroncoDash](https://github.com/jaroonl/BroncoDash)** – Food delivery web app for the Cal Poly Pomona campus, built with React, Flask, and MySQL by a team of 5. *I owned authentication, profiles, and cart/checkout.*
 - **BroncoDirectMe** – Professor-search interface and Chrome extension built with React and TypeScript on a 30-person Agile team. I redesigned the professor search and built the Project Credit section. [Live site](https://broncodirect.me/) · [Chrome extension](https://chromewebstore.google.com/detail/broncodirectme/kcbdmdlehcmkgknmmfjjiaclhpplibda) · [Code](https://github.com/BroncoDirectMe/Website)
+- **[BroncoDash](https://github.com/jaroonl/BroncoDash)** – Food delivery web app for the Cal Poly Pomona campus, built with React, Flask, and MySQL by a team of 5. *I owned authentication, profiles, and cart/checkout.*
 - **[BroncoBites](https://github.com/YuAreMySunshine/BroncoBites)** – Meal-planning web app for on-campus restaurants (CS 4800 team project). *I was in charge of the frontend.*
 - **[MeeedlyReact](https://github.com/jaroonl/MeeedlyReact)** – React onboarding project I created for incoming Meeedly interns, covering routing, state hooks, API calls, refs, and conditional UI.
 
